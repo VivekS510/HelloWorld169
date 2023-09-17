@@ -10,7 +10,7 @@ namespace HelloWorld169
     {
         static void Main(string[] args)
         {
-            string temp ="My First Program";
+            string temp ="My First Day";
             Console.WriteLine("Hello World !" + temp);
             Console.ReadLine();
         }
